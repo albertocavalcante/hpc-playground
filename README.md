@@ -1,2 +1,3 @@
-# hpc-playground
-High-Performance Computing (HPC) playground?
+# HPC Playground
+
+- [IBM Spectrum Symphony](ibm-spectrum-symphony/)
